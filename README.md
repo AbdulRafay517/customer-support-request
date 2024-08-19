@@ -21,10 +21,10 @@ This repository contains a no-code Customer Support Request App built using AppS
 - **Admin Oversight:**
   - Admins have full access to user management, detailed reporting, and overall performance monitoring of the support system.
 
-### **Demo Video**
-Watch the video below for a quick demonstration of how the Customer Support Request App works:
+### **Screenshot**
+Below is a screenshot of the Customer Support Request App:
 
-[![Demo Video](video.mp4)
+[Screenshot](screenshot.png)
 
 ### **Getting Started:**
 To deploy this app, you need to have an AppSheet account. Follow the instructions in the `Setup.md` file to configure the app for your organization.
