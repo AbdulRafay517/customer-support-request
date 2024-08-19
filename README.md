@@ -24,7 +24,7 @@ This repository contains a no-code Customer Support Request App built using AppS
 ### **Screenshot**
 Below is a screenshot of the Customer Support Request App:
 
-[Screenshot](screenshot.png)
+[Screenshot](Screenshot.png)
 
 ### **Getting Started:**
 To deploy this app, you need to have an AppSheet account. Follow the instructions in the `Setup.md` file to configure the app for your organization.
